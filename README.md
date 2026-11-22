@@ -9,7 +9,7 @@
 | `figuras/` | Gráficas generadas (`.png`). |
 | `resultados/tabla_tolerancias.csv` | Tabla completa de resultados. |
 | `reporte.tex` | Reporte técnico en LaTeX (4 capítulos), listo para Overleaf. |
-| `reporte_overleaf.zip` | `reporte.tex` + `figuras/` comprimidos para subir a Overleaf. |
+| `reporte.zip` | `reporte.tex` + `figuras/` comprimidos para subir a Overleaf. |
 | `requirements.txt` | Dependencias. |
 
 ## Requisitos
