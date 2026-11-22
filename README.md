@@ -52,10 +52,3 @@ r["intervalos"]      # lista de subintervalos finales [(a1, b1), (a2, b2), ...]
 r["prof_max"]        # profundidad máxima alcanzada
 r["sin_converger"]   # intervalos aceptados solo por llegar a max_prof
 ```
-
-## Reporte en Overleaf
-
-1. En Overleaf: **New Project → Upload Project** y subir `reporte_overleaf.zip`.
-2. Compilar con pdfLaTeX (opción por defecto).
-3. Cambiar `Integrante 1` e `Integrante 2` por los nombres del equipo (línea `\author{...}`).
-4. Descargar el PDF.
