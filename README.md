@@ -6,11 +6,10 @@
 |---|---|
 | `simpson_adaptativo.py` | Implementación **desde cero** de Simpson simple, Simpson compuesto y Simpson adaptativo. |
 | `experimentos.py` | Ejecuta todos los experimentos (5 integrales, varias tolerancias) y genera tablas y gráficas. |
-| `figuras/` | Gráficas generadas (`.png`). |
-| `resultados/tabla_tolerancias.csv` | Tabla completa de resultados. |
-| `reporte.tex` | Reporte técnico en LaTeX (4 capítulos), listo para Overleaf. |
-| `reporte.zip` | `reporte.tex` + `figuras/` comprimidos para subir a Overleaf. |
 | `requirements.txt` | Dependencias. |
+
+Al ejecutar `experimentos.py` se crean automáticamente las carpetas `figuras/` (gráficas `.png`)
+y `resultados/` (tabla `tabla_tolerancias.csv`).
 
 ## Requisitos
 
